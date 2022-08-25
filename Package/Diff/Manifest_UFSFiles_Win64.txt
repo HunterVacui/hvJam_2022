@@ -251,6 +251,8 @@ Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset
 Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp	
 Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset	
 Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp	
+Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset	
+Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uexp	
 Engine/Content/Internationalization/icudt64l/brkitr/char.brk	
 Engine/Content/Internationalization/icudt64l/brkitr/en.res	
 Engine/Content/Internationalization/icudt64l/brkitr/en_US.res	
@@ -1496,12 +1498,8 @@ hvJam_2022/Content/Materials/Metal.uexp
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
-hvJam_2022/Content/Textures/Deepscratch_Roughness.uasset	
-hvJam_2022/Content/Textures/Deepscratch_Roughness.uexp	
-hvJam_2022/Content/Textures/Smear_Roughness.uasset	
-hvJam_2022/Content/Textures/Smear_Roughness.uexp	
-hvJam_2022/Content/Textures/SurfScratch_Roughness.uasset	
-hvJam_2022/Content/Textures/SurfScratch_Roughness.uexp	
+hvJam_2022/Content/Textures/TexSample.uasset	
+hvJam_2022/Content/Textures/TexSample.uexp	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uasset	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.ubulk	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uexp	
