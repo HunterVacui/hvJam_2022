@@ -1491,9 +1491,17 @@ hvJam_2022/Content/Materials/Emission.uasset
 hvJam_2022/Content/Materials/Emission.uexp	
 hvJam_2022/Content/Materials/Flat.uasset	
 hvJam_2022/Content/Materials/Flat.uexp	
+hvJam_2022/Content/Materials/Metal.uasset	
+hvJam_2022/Content/Materials/Metal.uexp	
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
+hvJam_2022/Content/Textures/Deepscratch_Roughness.uasset	
+hvJam_2022/Content/Textures/Deepscratch_Roughness.uexp	
+hvJam_2022/Content/Textures/Smear_Roughness.uasset	
+hvJam_2022/Content/Textures/Smear_Roughness.uexp	
+hvJam_2022/Content/Textures/SurfScratch_Roughness.uasset	
+hvJam_2022/Content/Textures/SurfScratch_Roughness.uexp	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uasset	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.ubulk	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uexp	

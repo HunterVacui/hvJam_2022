@@ -8,6 +8,10 @@ Channel 2:
 	Type: Roughness
 	Megascans ID: uh4scgic
 	Levels: [95, 255] : [0,255]
+	  (x*((255-95+1)/255) + 95/255)
+	  (x*0.6313725 + 95/255)
+	  (x*0.6313725 + 0.372549)
+	
 
 
 Channel 3:
@@ -15,6 +19,9 @@ Channel 3:
 	Type: Roughness
 	Megascans ID: vdekebmc
 	Levels: [109,180] : [0,255]
+	  (x*((180-109+1)/255) + 109/255)
+	  (x*0.2823529411764706 + 109/255)
+	  (x*0.2823529411764706 + 0.42745) 
 
 
 Channel 4:
@@ -22,4 +29,6 @@ Channel 4:
 	Type: Roughness
 	Megascans ID: vdekdjec
 	Levels: [86,163] : [0,255]
+	  (x*((163-86+1)/255) + 86/255)
+	  (x*0.3058823529 + 0.3372549)
 
