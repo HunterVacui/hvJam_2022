@@ -1494,5 +1494,8 @@ hvJam_2022/Content/Materials/Flat.uexp
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
+hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uasset	
+hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.ubulk	
+hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uexp	
 hvJam_2022/Plugins/hvJam_2022.upluginmanifest	
 hvJam_2022/hvJam_2022.uproject	
