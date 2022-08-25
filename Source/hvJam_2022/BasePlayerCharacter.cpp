@@ -13,6 +13,7 @@ ABasePlayerCharacter::ABasePlayerCharacter()
 void ABasePlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	SafeLocation = GetActorLocation();
 }
 
 void ABasePlayerCharacter::Tick(float DeltaTime)
@@ -27,5 +28,7 @@ void ABasePlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 
 
 void ABasePlayerCharacter::FellOutOfWorld(const UDamageType& dmgType) {
-	TeleportTo(SafeLocation, GetActorRotation(), false, false);
+	FRotator newRot = GetActorRotation();
+	newRot.Pitch = 0;
+	TeleportTo(SafeLocation, newRot, false, false);
 }
