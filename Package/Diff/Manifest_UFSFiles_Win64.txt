@@ -1485,6 +1485,7 @@ Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin
 hvJam_2022/AssetRegistry.bin	
 hvJam_2022/Config/DefaultEngine.ini	
 hvJam_2022/Config/DefaultGame.ini	
+hvJam_2022/Config/DefaultInput.ini	
 hvJam_2022/Content/Levels/Level1.uexp	
 hvJam_2022/Content/Levels/Level1.umap	
 hvJam_2022/Content/Materials/Emission/Emission.uasset	
