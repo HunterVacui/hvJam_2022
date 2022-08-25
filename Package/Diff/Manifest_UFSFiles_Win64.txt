@@ -1487,8 +1487,10 @@ hvJam_2022/Config/DefaultEngine.ini
 hvJam_2022/Config/DefaultGame.ini	
 hvJam_2022/Content/Levels/Level1.uexp	
 hvJam_2022/Content/Levels/Level1.umap	
-hvJam_2022/Content/Materials/Emission.uasset	
-hvJam_2022/Content/Materials/Emission.uexp	
+hvJam_2022/Content/Materials/Emission/Emission.uasset	
+hvJam_2022/Content/Materials/Emission/Emission.uexp	
+hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uasset	
+hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uexp	
 hvJam_2022/Content/Materials/Flat.uasset	
 hvJam_2022/Content/Materials/Flat.uexp	
 hvJam_2022/Content/Materials/Math/N_DeepScratches.uasset	
