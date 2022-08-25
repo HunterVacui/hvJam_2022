@@ -1,0 +1,16 @@
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	
+Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	
+hvJam_2022.exe	
+hvJam_2022/Binaries/Win64/D3D12/D3D12Core.dll	
+hvJam_2022/Binaries/Win64/hvJam_2022-Win64-Shipping.exe	
+hvJam_2022/Binaries/Win64/tbb.dll	
