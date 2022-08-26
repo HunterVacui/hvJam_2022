@@ -1447,6 +1447,8 @@ hvJam_2022/Content/Audio/Metasounds/MsLib_RandIdx.uasset
 hvJam_2022/Content/Audio/Metasounds/MsLib_RandIdx.uexp	
 hvJam_2022/Content/Audio/Metasounds/MsLib_RandWav.uasset	
 hvJam_2022/Content/Audio/Metasounds/MsLib_RandWav.uexp	
+hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uasset	
+hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uexp	
 hvJam_2022/Content/Audio/Music/BGM_Manager.uasset	
 hvJam_2022/Content/Audio/Music/BGM_Manager.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.uasset	
@@ -1464,6 +1466,8 @@ hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_4.uexp
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_5.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_5.ubulk	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_5.uexp	
+hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Excited.uasset	
+hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Excited.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Loop.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Loop.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Procedural.uasset	
