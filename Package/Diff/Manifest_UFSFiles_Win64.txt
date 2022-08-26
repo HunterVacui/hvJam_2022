@@ -33,9 +33,6 @@ Engine/Content/BasicShapes/Sphere.ubulk
 Engine/Content/BasicShapes/Sphere.uexp	
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset	
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp	
-Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset	
-Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp	
-Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont	
 Engine/Content/EngineFonts/Faces/RobotoBold.uasset	
 Engine/Content/EngineFonts/Faces/RobotoBold.uexp	
 Engine/Content/EngineFonts/Faces/RobotoBold.ufont	
