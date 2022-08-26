@@ -1489,6 +1489,8 @@ hvJam_2022/Config/DefaultEngine.ini
 hvJam_2022/Config/DefaultGame.ini	
 hvJam_2022/Config/DefaultGameUserSettings.ini	
 hvJam_2022/Config/DefaultInput.ini	
+hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame.uasset	
+hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.ubulk	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.uexp	
