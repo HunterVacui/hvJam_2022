@@ -1485,6 +1485,7 @@ Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin
 hvJam_2022/AssetRegistry.bin	
 hvJam_2022/Config/DefaultEngine.ini	
 hvJam_2022/Config/DefaultGame.ini	
+hvJam_2022/Config/DefaultGameUserSettings.ini	
 hvJam_2022/Config/DefaultInput.ini	
 hvJam_2022/Content/Levels/Level1.uexp	
 hvJam_2022/Content/Levels/Level1.umap	
@@ -1522,5 +1523,7 @@ hvJam_2022/Content/Textures/TexSample.uexp
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uasset	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.ubulk	
 hvJam_2022/Content/Textures/noise_smear_deepscratch_surfscratch.uexp	
+hvJam_2022/Content/UI/MainMenuWidget.uasset	
+hvJam_2022/Content/UI/MainMenuWidget.uexp	
 hvJam_2022/Plugins/hvJam_2022.upluginmanifest	
 hvJam_2022/hvJam_2022.uproject	
