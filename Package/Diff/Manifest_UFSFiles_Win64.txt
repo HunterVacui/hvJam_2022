@@ -36,12 +36,6 @@ Engine/Content/BasicShapes/Sphere.ubulk
 Engine/Content/BasicShapes/Sphere.uexp	
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset	
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp	
-Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset	
-Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp	
-Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset	
-Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp	
-Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset	
-Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp	
 Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset	
 Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp	
 Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont	
@@ -914,12 +908,6 @@ Engine/Content/Maps/Entry.uexp
 Engine/Content/Maps/Entry.umap	
 Engine/Content/Maps/Entry_BuiltData.uasset	
 Engine/Content/Maps/Entry_BuiltData.uexp	
-Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset	
-Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp	
-Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset	
-Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp	
-Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset	
-Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp	
 Engine/Content/Slate/Checkerboard.png	
 Engine/Content/Slate/Common/BoxShadow.png	
 Engine/Content/Slate/Common/Button.png	

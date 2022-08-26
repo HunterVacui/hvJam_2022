@@ -412,5 +412,8 @@
 			"Name": "CameraShakePreviewer",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
