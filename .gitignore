@@ -76,3 +76,8 @@ DerivedDataCache/*
 # megascans
 Content/Megascans/*
 !Content/Megascans/**/*.json
+
+# large audio files
+Content/Audio/dynamedion/*
+!Content/Audio/**/source.txt
+

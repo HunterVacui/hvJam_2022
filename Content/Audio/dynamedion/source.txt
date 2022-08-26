@@ -1,0 +1,37 @@
+https://www.weloveindies.com/en
+
+Project name: hvjam-2022-2022-08-26t01-49-01-361078z
+
+
+Assets:
+
+
+
+Sound Bundle B
+
+FOLEY STEP Metal Step 01
+FOLEY STEP Metal Step 02
+FOLEY STEP Metal Step 03
+FOLEY STEP Metal Step 04
+FOLEY STEP Sneaker Metal Dry Single Right 03
+FOLEY STEP Sneaker Metal Dry Single Right 02
+FOLEY STEP Sneaker Metal Dry Single Right 01
+FOLEY STEP Sneaker Metal Dry Single Left 03
+FOLEY STEP Sneaker Metal Dry Single Left 02
+FOLEY STEP Sneaker Metal Dry Single Left 01
+OBJECT METAL Dropping Small Metal Rod In Sheet Metal Container 03
+OBJECT METAL Dropping Small Metal Rod In Sheet Metal Container 02
+OBJECT METAL Lock Metal Door 04
+OBJECT METAL Squeak Metal Bar On Metal Surface Hollow Small 01
+OBJECT METAL Metal Piece Dropping On Other Metal Piece Rattle Rebound 01
+OBJECT METAL Thin Metal Blade Squeak 04
+
+
+Music Bundle D (Electro)
+
+Pole Position
+Backstage
+Electronic Emporium
+Electric Fire
+Outgame
+Egotrip
