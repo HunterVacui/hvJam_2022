@@ -1438,14 +1438,8 @@ Engine/Plugins/Animation/ControlRig/Config/BaseControlRig.ini
 Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset	
 Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp	
 Engine/Plugins/Animation/ControlRig/ControlRig.uplugin	
-Engine/Plugins/Animation/ControlRigSpline/ControlRigSpline.uplugin	
-Engine/Plugins/Bridge/Bridge.uplugin	
-Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin	
 Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin	
 Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin	
-Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin	
-Engine/Plugins/Editor/EditorScriptingUtilities/Config/BaseEditorScriptingUtilities.ini	
-Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin	
 Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin	
 Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini	
 Engine/Plugins/FX/Niagara/Niagara.uplugin	
@@ -1454,7 +1448,6 @@ Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin
 Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin	
 Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin	
 Engine/Plugins/Runtime/AudioWidgets/AudioWidgets.uplugin	
-Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin	
 Engine/Plugins/Runtime/Metasound/Config/BaseMetasound.ini	
 Engine/Plugins/Runtime/Metasound/Metasound.uplugin	
 Engine/Plugins/Runtime/PropertyAccess/PropertyAccessEditor.uplugin	
