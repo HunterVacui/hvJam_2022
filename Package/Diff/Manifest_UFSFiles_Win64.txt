@@ -16,9 +16,6 @@ Engine/Config/Windows/BaseWindowsEngine.ini
 Engine/Config/Windows/DataDrivenPlatformInfo.ini	
 Engine/Config/Windows/WindowsEngine.ini	
 Engine/Config/Windows/WindowsGame.ini	
-Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset	
-Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk	
-Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp	
 Engine/Content/BasicShapes/Cone.uasset	
 Engine/Content/BasicShapes/Cone.ubulk	
 Engine/Content/BasicShapes/Cone.uexp	
@@ -1468,14 +1465,6 @@ hvJam_2022/Content/Materials/Emission/Emission.uasset
 hvJam_2022/Content/Materials/Emission/Emission.uexp	
 hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uasset	
 hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uexp	
-hvJam_2022/Content/Materials/Geometry/MfCircle.uasset	
-hvJam_2022/Content/Materials/Geometry/MfCircle.uexp	
-hvJam_2022/Content/Materials/Geometry/MfDonut.uasset	
-hvJam_2022/Content/Materials/Geometry/MfDonut.uexp	
-hvJam_2022/Content/Materials/Geometry/MfDonutWithNormal.uasset	
-hvJam_2022/Content/Materials/Geometry/MfDonutWithNormal.uexp	
-hvJam_2022/Content/Materials/Geometry/MfSquare.uasset	
-hvJam_2022/Content/Materials/Geometry/MfSquare.uexp	
 hvJam_2022/Content/Materials/Geometry/Ripple/MfRipple.uasset	
 hvJam_2022/Content/Materials/Geometry/Ripple/MfRipple.uexp	
 hvJam_2022/Content/Materials/Math/NormalFromHeightSamples.uasset	
