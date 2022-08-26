@@ -1466,8 +1466,12 @@ hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_5.ubulk
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_5.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Loop.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Loop.uexp	
+hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Procedural.uasset	
+hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Procedural.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Quiet_Procedural.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Quiet_Procedural.uexp	
+hvJam_2022/Content/Audio/Music/Trigger_BGM_HighEnergy.uasset	
+hvJam_2022/Content/Audio/Music/Trigger_BGM_HighEnergy.uexp	
 hvJam_2022/Content/Levels/Level1.uexp	
 hvJam_2022/Content/Levels/Level1.umap	
 hvJam_2022/Content/Materials/Emission/Emission.uasset	
