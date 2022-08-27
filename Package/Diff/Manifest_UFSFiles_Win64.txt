@@ -1698,8 +1698,10 @@ hvJam_2022/Content/Gameplay/Interactable/BaseInteractable.uasset
 hvJam_2022/Content/Gameplay/Interactable/BaseInteractable.uexp	
 hvJam_2022/Content/Gameplay/Interactable/BreakSphere.uasset	
 hvJam_2022/Content/Gameplay/Interactable/BreakSphere.uexp	
-hvJam_2022/Content/Levels/Level1.uexp	
-hvJam_2022/Content/Levels/Level1.umap	
+hvJam_2022/Content/Levels/Level1/Events/GameIntro/GameIntro.uasset	
+hvJam_2022/Content/Levels/Level1/Events/GameIntro/GameIntro.uexp	
+hvJam_2022/Content/Levels/Level1/Level1.uexp	
+hvJam_2022/Content/Levels/Level1/Level1.umap	
 hvJam_2022/Content/Materials/Emission/Emission.uasset	
 hvJam_2022/Content/Materials/Emission/Emission.uexp	
 hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uasset	
