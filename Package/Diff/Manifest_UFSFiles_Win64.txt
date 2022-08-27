@@ -1612,6 +1612,8 @@ Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset
 Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset	
 Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp	
+Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset	
+Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset	
 Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset	
@@ -1632,6 +1634,8 @@ Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset	
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp	
+Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uasset	
+Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset	
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp	
 Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset	
@@ -1736,8 +1740,12 @@ hvJam_2022/Content/Materials/Procedural/N_SurfaceScratches.uasset
 hvJam_2022/Content/Materials/Procedural/N_SurfaceScratches.uexp	
 hvJam_2022/Content/Materials/Procedural/RippleTest.uasset	
 hvJam_2022/Content/Materials/Procedural/RippleTest.uexp	
+hvJam_2022/Content/Objects/Torch/FireEmitter.uasset	
+hvJam_2022/Content/Objects/Torch/FireEmitter.uexp	
 hvJam_2022/Content/Objects/Torch/Torch.uasset	
 hvJam_2022/Content/Objects/Torch/Torch.uexp	
+hvJam_2022/Content/Objects/Torch/TorchFire.uasset	
+hvJam_2022/Content/Objects/Torch/TorchFire.uexp	
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
