@@ -1740,6 +1740,8 @@ hvJam_2022/Content/Materials/Geometry/Ripple/MfRipple.uasset
 hvJam_2022/Content/Materials/Geometry/Ripple/MfRipple.uexp	
 hvJam_2022/Content/Materials/Math/DistanceBlend.uasset	
 hvJam_2022/Content/Materials/Math/DistanceBlend.uexp	
+hvJam_2022/Content/Materials/Math/MfSetEmissive.uasset	
+hvJam_2022/Content/Materials/Math/MfSetEmissive.uexp	
 hvJam_2022/Content/Materials/Math/MfUvOutline.uasset	
 hvJam_2022/Content/Materials/Math/MfUvOutline.uexp	
 hvJam_2022/Content/Materials/Math/NormalFromHeightSamples.uasset	
@@ -1752,8 +1754,12 @@ hvJam_2022/Content/Materials/Physical/Linoleum/TiledFloor.uasset
 hvJam_2022/Content/Materials/Physical/Linoleum/TiledFloor.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uexp	
+hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uasset	
+hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uexp	
+hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingScratches.uasset	
+hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepScratches.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Smear.uasset	
