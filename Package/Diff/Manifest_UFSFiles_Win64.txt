@@ -1799,10 +1799,12 @@ hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.ubulk
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.uexp	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uasset	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uexp	
-hvJam_2022/Content/Objects/Torch/Torch.uasset	
-hvJam_2022/Content/Objects/Torch/Torch.uexp	
 hvJam_2022/Content/Objects/Torch/TorchFire.uasset	
 hvJam_2022/Content/Objects/Torch/TorchFire.uexp	
+hvJam_2022/Content/Objects/Torch/Torch_Emissive.uasset	
+hvJam_2022/Content/Objects/Torch/Torch_Emissive.uexp	
+hvJam_2022/Content/Objects/Torch/Torch_Light.uasset	
+hvJam_2022/Content/Objects/Torch/Torch_Light.uexp	
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
