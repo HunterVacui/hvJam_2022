@@ -1722,6 +1722,8 @@ hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
+hvJam_2022/Content/Levels/Persistent/PersistentLevel.uexp	
+hvJam_2022/Content/Levels/Persistent/PersistentLevel.umap	
 hvJam_2022/Content/Materials/Emission/Emission.uasset	
 hvJam_2022/Content/Materials/Emission/Emission.uexp	
 hvJam_2022/Content/Materials/Emission/Emission_White_Strong.uasset	
