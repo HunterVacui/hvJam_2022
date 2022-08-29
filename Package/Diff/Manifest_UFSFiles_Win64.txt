@@ -1721,12 +1721,6 @@ hvJam_2022/Content/Gameplay/BasicUtils.uasset
 hvJam_2022/Content/Gameplay/BasicUtils.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.umap	
-hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset	
-hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uexp	
-hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uasset	
-hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uexp	
-hvJam_2022/Content/Levels/Level1/Breaksphere/XYFollowActorComponent.uasset	
-hvJam_2022/Content/Levels/Level1/Breaksphere/XYFollowActorComponent.uexp	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
@@ -1836,6 +1830,12 @@ hvJam_2022/Content/Materials/Textures/TextureSplit.uexp
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.uasset	
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.ubulk	
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.uexp	
+hvJam_2022/Content/Objects/Breaksphere/BreakSphere.uasset	
+hvJam_2022/Content/Objects/Breaksphere/BreakSphere.uexp	
+hvJam_2022/Content/Objects/Breaksphere/BreakSphereDeath.uasset	
+hvJam_2022/Content/Objects/Breaksphere/BreakSphereDeath.uexp	
+hvJam_2022/Content/Objects/Breaksphere/XYFollowActorComponent.uasset	
+hvJam_2022/Content/Objects/Breaksphere/XYFollowActorComponent.uexp	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uasset	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uexp	
 hvJam_2022/Content/Objects/Torch/TorchFire.uasset	
@@ -1844,6 +1844,8 @@ hvJam_2022/Content/Objects/Torch/Torch_Emissive.uasset
 hvJam_2022/Content/Objects/Torch/Torch_Emissive.uexp	
 hvJam_2022/Content/Objects/Torch/Torch_Light.uasset	
 hvJam_2022/Content/Objects/Torch/Torch_Light.uexp	
+hvJam_2022/Content/Objects/Torch/Torch_Unlit.uasset	
+hvJam_2022/Content/Objects/Torch/Torch_Unlit.uexp	
 hvJam_2022/Content/Paks/hvJam_2022-Windows.pak	
 hvJam_2022/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode	
 hvJam_2022/Content/ShaderArchive-hvJam_2022-PCD3D_SM5.ushaderbytecode	
