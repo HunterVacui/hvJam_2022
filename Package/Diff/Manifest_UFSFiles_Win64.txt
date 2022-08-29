@@ -1722,6 +1722,8 @@ hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uexp	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uasset	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uexp	
+hvJam_2022/Content/Levels/Level1/Breaksphere/XYFollowActorComponent.uasset	
+hvJam_2022/Content/Levels/Level1/Breaksphere/XYFollowActorComponent.uexp	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
