@@ -1838,7 +1838,11 @@ hvJam_2022/Content/System/BpPlayerCharacter.uasset
 hvJam_2022/Content/System/BpPlayerCharacter.uexp	
 hvJam_2022/Content/System/PlaySequenceHelper.uasset	
 hvJam_2022/Content/System/PlaySequenceHelper.uexp	
+hvJam_2022/Content/UI/FullscreenButton.uasset	
+hvJam_2022/Content/UI/FullscreenButton.uexp	
 hvJam_2022/Content/UI/PauseMenuWidget.uasset	
 hvJam_2022/Content/UI/PauseMenuWidget.uexp	
+hvJam_2022/Content/UI/QuitGameButton.uasset	
+hvJam_2022/Content/UI/QuitGameButton.uexp	
 hvJam_2022/Plugins/hvJam_2022.upluginmanifest	
 hvJam_2022/hvJam_2022.uproject	
