@@ -26,12 +26,16 @@ void ABasePlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 }
 
-
-void ABasePlayerCharacter::FellOutOfWorld(const UDamageType& dmgType) {
+void ABasePlayerCharacter::FellOutOfWorld() {
 	FRotator newRot = GetActorRotation();
 	TeleportTo(SafeLocation, newRot, false, false);
 	if (auto* controller = GetController()) {
 		newRot.Pitch = 0;
 		controller->SetControlRotation(newRot);
 	}
+}
+
+
+void ABasePlayerCharacter::FellOutOfWorld(const UDamageType& dmgType) {
+	FellOutOfWorld();
 }

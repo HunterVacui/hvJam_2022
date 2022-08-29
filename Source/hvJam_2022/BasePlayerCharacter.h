@@ -28,6 +28,9 @@ public:
 
 	virtual void FellOutOfWorld(const UDamageType& dmgType) override;
 
+	UFUNCTION(BlueprintCallable)
+	void FellOutOfWorld();
+
 	UPROPERTY(BlueprintReadWrite, VisibleAnywhere)
 	FVector SafeLocation;
 };

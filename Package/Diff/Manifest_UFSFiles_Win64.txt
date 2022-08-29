@@ -159,6 +159,9 @@ Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
 Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp	
 Engine/Content/EngineMaterials/WorldGridMaterial.uasset	
 Engine/Content/EngineMaterials/WorldGridMaterial.uexp	
+Engine/Content/EngineMeshes/Cube.uasset	
+Engine/Content/EngineMeshes/Cube.ubulk	
+Engine/Content/EngineMeshes/Cube.uexp	
 Engine/Content/EngineMeshes/Sphere.uasset	
 Engine/Content/EngineMeshes/Sphere.ubulk	
 Engine/Content/EngineMeshes/Sphere.uexp	
@@ -1728,6 +1731,8 @@ hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
+hvJam_2022/Content/Levels/Level1/Transition/TransitionHelper_Lv1_to_Lv2.uasset	
+hvJam_2022/Content/Levels/Level1/Transition/TransitionHelper_Lv1_to_Lv2.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset	
@@ -1814,6 +1819,8 @@ hvJam_2022/Content/Materials/Procedural/N_Smear.uasset
 hvJam_2022/Content/Materials/Procedural/N_Smear.uexp	
 hvJam_2022/Content/Materials/Procedural/N_SurfaceScratches.uasset	
 hvJam_2022/Content/Materials/Procedural/N_SurfaceScratches.uexp	
+hvJam_2022/Content/Materials/Procedural/PlayerCollision.uasset	
+hvJam_2022/Content/Materials/Procedural/PlayerCollision.uexp	
 hvJam_2022/Content/Materials/Procedural/RippleTest.uasset	
 hvJam_2022/Content/Materials/Procedural/RippleTest.uexp	
 hvJam_2022/Content/Materials/Textures/MfMacroNoise.uasset	
