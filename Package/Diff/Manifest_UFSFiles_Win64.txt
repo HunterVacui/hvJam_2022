@@ -1724,6 +1724,14 @@ hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
+hvJam_2022/Content/Levels/MainMenu/MainMenu.uexp	
+hvJam_2022/Content/Levels/MainMenu/MainMenu.umap	
+hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uasset	
+hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uexp	
+hvJam_2022/Content/Levels/MainMenu/MainMenuPopupHelper.uasset	
+hvJam_2022/Content/Levels/MainMenu/MainMenuPopupHelper.uexp	
+hvJam_2022/Content/Levels/MainMenu/MainMenuUI.uasset	
+hvJam_2022/Content/Levels/MainMenu/MainMenuUI.uexp	
 hvJam_2022/Content/Levels/System/OutsideLight.uexp	
 hvJam_2022/Content/Levels/System/OutsideLight.umap	
 hvJam_2022/Content/Levels/System/PersistentLevel.uexp	
@@ -1828,7 +1836,9 @@ hvJam_2022/Content/System/BpMainGameMode.uasset
 hvJam_2022/Content/System/BpMainGameMode.uexp	
 hvJam_2022/Content/System/BpPlayerCharacter.uasset	
 hvJam_2022/Content/System/BpPlayerCharacter.uexp	
-hvJam_2022/Content/UI/MainMenuWidget.uasset	
-hvJam_2022/Content/UI/MainMenuWidget.uexp	
+hvJam_2022/Content/System/PlaySequenceHelper.uasset	
+hvJam_2022/Content/System/PlaySequenceHelper.uexp	
+hvJam_2022/Content/UI/PauseMenuWidget.uasset	
+hvJam_2022/Content/UI/PauseMenuWidget.uexp	
 hvJam_2022/Plugins/hvJam_2022.upluginmanifest	
 hvJam_2022/hvJam_2022.uproject	
