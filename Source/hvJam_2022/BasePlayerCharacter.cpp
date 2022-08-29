@@ -33,6 +33,7 @@ void ABasePlayerCharacter::FellOutOfWorld() {
 		newRot.Pitch = 0;
 		controller->SetControlRotation(newRot);
 	}
+	DoDamage(0.4);
 }
 
 

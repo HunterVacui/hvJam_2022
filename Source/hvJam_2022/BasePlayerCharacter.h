@@ -31,6 +31,10 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void FellOutOfWorld();
 
+	// value between 0 and 1, where 1 is the player's full health bar
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
+	void DoDamage(float amount);
+
 	UPROPERTY(BlueprintReadWrite, VisibleAnywhere)
 	FVector SafeLocation;
 };
