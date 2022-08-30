@@ -1688,8 +1688,8 @@ hvJam_2022/Content/Audio/Metasounds/MsLib_RandWav.uasset
 hvJam_2022/Content/Audio/Metasounds/MsLib_RandWav.uexp	
 hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uasset	
 hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uexp	
-hvJam_2022/Content/Audio/Music/BGM_Manager.uasset	
-hvJam_2022/Content/Audio/Music/BGM_Manager.uexp	
+hvJam_2022/Content/Audio/Music/ActorBasedBGM.uasset	
+hvJam_2022/Content/Audio/Music/ActorBasedBGM.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.ubulk	
 hvJam_2022/Content/Audio/Music/Outgame/BGM_outgame_1.uexp	
@@ -1713,8 +1713,8 @@ hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Procedural.uasset
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Procedural.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Quiet_Procedural.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Quiet_Procedural.uexp	
-hvJam_2022/Content/Audio/Music/Trigger_BGM_HighEnergy.uasset	
-hvJam_2022/Content/Audio/Music/Trigger_BGM_HighEnergy.uexp	
+hvJam_2022/Content/Audio/Music/Outgame/Song_Manager_Outgame.uasset	
+hvJam_2022/Content/Audio/Music/Outgame/Song_Manager_Outgame.uexp	
 hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uasset	
 hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uexp	
 hvJam_2022/Content/FX/Targeted_2Actor/TargetedLaser.uasset	
