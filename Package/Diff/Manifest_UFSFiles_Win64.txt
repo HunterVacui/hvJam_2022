@@ -1674,6 +1674,8 @@ hvJam_2022/Config/DefaultEngine.ini
 hvJam_2022/Config/DefaultGame.ini	
 hvJam_2022/Config/DefaultGameUserSettings.ini	
 hvJam_2022/Config/DefaultInput.ini	
+hvJam_2022/Content/AI/XYFollowActorComponent.uasset	
+hvJam_2022/Content/AI/XYFollowActorComponent.uexp	
 hvJam_2022/Content/Audio/Metasounds/Experimental/MsLib_RandConcat.uasset	
 hvJam_2022/Content/Audio/Metasounds/Experimental/MsLib_RandConcat.uexp	
 hvJam_2022/Content/Audio/Metasounds/MetaSound_WavChainer.uasset	
@@ -1721,10 +1723,16 @@ hvJam_2022/Content/Gameplay/BasicUtils.uasset
 hvJam_2022/Content/Gameplay/BasicUtils.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.umap	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uexp	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uasset	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uexp	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
+hvJam_2022/Content/Levels/Level1/Transition/BelowPlatformSphereCheck.uasset	
+hvJam_2022/Content/Levels/Level1/Transition/BelowPlatformSphereCheck.uexp	
 hvJam_2022/Content/Levels/Level1/Transition/TransitionHelper_Lv1_to_Lv2.uasset	
 hvJam_2022/Content/Levels/Level1/Transition/TransitionHelper_Lv1_to_Lv2.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall.uasset	
@@ -1733,6 +1741,8 @@ hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset
 hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
+hvJam_2022/Content/Levels/Level2/Lv2Sphere/Lvl2Sphere.uasset	
+hvJam_2022/Content/Levels/Level2/Lv2Sphere/Lvl2Sphere.uexp	
 hvJam_2022/Content/Levels/MainMenu/MainMenu.uexp	
 hvJam_2022/Content/Levels/MainMenu/MainMenu.umap	
 hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uasset	
@@ -1830,12 +1840,6 @@ hvJam_2022/Content/Materials/Textures/TextureSplit.uexp
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.uasset	
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.ubulk	
 hvJam_2022/Content/Materials/Textures/noise_smear_deepscratch_surfscratch.uexp	
-hvJam_2022/Content/Objects/Breaksphere/BreakSphere.uasset	
-hvJam_2022/Content/Objects/Breaksphere/BreakSphere.uexp	
-hvJam_2022/Content/Objects/Breaksphere/BreakSphereDeath.uasset	
-hvJam_2022/Content/Objects/Breaksphere/BreakSphereDeath.uexp	
-hvJam_2022/Content/Objects/Breaksphere/XYFollowActorComponent.uasset	
-hvJam_2022/Content/Objects/Breaksphere/XYFollowActorComponent.uexp	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uasset	
 hvJam_2022/Content/Objects/Torch/FireEmitter.uexp	
 hvJam_2022/Content/Objects/Torch/TorchFire.uasset	
