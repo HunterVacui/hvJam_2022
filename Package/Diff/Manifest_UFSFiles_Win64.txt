@@ -1873,6 +1873,8 @@ hvJam_2022/Content/UI/Hints/HintSeries.uasset
 hvJam_2022/Content/UI/Hints/HintSeries.uexp	
 hvJam_2022/Content/UI/Hints/HintStage.uasset	
 hvJam_2022/Content/UI/Hints/HintStage.uexp	
+hvJam_2022/Content/UI/Hints/HintUtils.uasset	
+hvJam_2022/Content/UI/Hints/HintUtils.uexp	
 hvJam_2022/Content/UI/Hints/HintWindow.uasset	
 hvJam_2022/Content/UI/Hints/HintWindow.uexp	
 hvJam_2022/Content/UI/Menu/FullscreenButton.uasset	
