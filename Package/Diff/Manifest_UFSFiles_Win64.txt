@@ -1753,6 +1753,8 @@ hvJam_2022/Content/Levels/Level1/Level1.uexp
 hvJam_2022/Content/Levels/Level1/Level1.umap	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uasset	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uexp	
+hvJam_2022/Content/Levels/Level1/Transition/FallingVisualAid.uasset	
+hvJam_2022/Content/Levels/Level1/Transition/FallingVisualAid.uexp	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uasset	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uexp	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1To2Transition.uasset	
