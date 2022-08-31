@@ -1739,6 +1739,8 @@ hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.ubulk
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.uexp	
 hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uasset	
 hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uexp	
+hvJam_2022/Content/FX/SimpleSpriteMaterial.uasset	
+hvJam_2022/Content/FX/SimpleSpriteMaterial.uexp	
 hvJam_2022/Content/Gameplay/BaseInteractable.uasset	
 hvJam_2022/Content/Gameplay/BaseInteractable.uexp	
 hvJam_2022/Content/Gameplay/BasicUtils.uasset	
@@ -1749,14 +1751,16 @@ hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uexp	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uasset	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uexp	
+hvJam_2022/Content/Levels/Level1/Cloud/MatCloudParticle.uasset	
+hvJam_2022/Content/Levels/Level1/Cloud/MatCloudParticle.uexp	
+hvJam_2022/Content/Levels/Level1/Cloud/NS_Cloud.uasset	
+hvJam_2022/Content/Levels/Level1/Cloud/NS_Cloud.uexp	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset	
 hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uasset	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uexp	
-hvJam_2022/Content/Levels/Level1/Transition/FallingVisualAid.uasset	
-hvJam_2022/Content/Levels/Level1/Transition/FallingVisualAid.uexp	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uasset	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uexp	
 hvJam_2022/Content/Levels/Level1/Transition/Lvl1To2Transition.uasset	
@@ -1775,8 +1779,6 @@ hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.ua
 hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.uexp	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uasset	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uexp	
-hvJam_2022/Content/Levels/Level1/Underplatform/MatFallingVisualAid.uasset	
-hvJam_2022/Content/Levels/Level1/Underplatform/MatFallingVisualAid.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset	
