@@ -1417,8 +1417,6 @@ Engine/GlobalShaderCache-PCD3D_SM5.bin
 Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin	
 Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin	
 Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini	
-Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset	
-Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp	
 Engine/Plugins/FX/Niagara/Content/DynamicInputs/Lerp/Lerp_Float.uasset	
 Engine/Plugins/FX/Niagara/Content/DynamicInputs/Lerp/Lerp_Float.uexp	
 Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset	
