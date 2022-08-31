@@ -1417,11 +1417,6 @@ Engine/Content/Slate/Tutorials/TutorialShadow.png
 Engine/Content/Tutorial/ContentIntroCurve.uasset	
 Engine/Content/Tutorial/ContentIntroCurve.uexp	
 Engine/GlobalShaderCache-PCD3D_SM5.bin	
-Engine/Plugins/Animation/ControlRig/Config/BaseControlRig.ini	
-Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset	
-Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp	
-Engine/Plugins/Animation/ControlRig/ControlRig.uplugin	
-Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin	
 Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin	
 Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin	
 Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini	
@@ -1670,7 +1665,6 @@ Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uex
 Engine/Plugins/FX/Niagara/Niagara.uplugin	
 Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin	
 Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin	
-Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin	
 Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin	
 Engine/Plugins/Runtime/AudioWidgets/AudioWidgets.uplugin	
 Engine/Plugins/Runtime/Metasound/Config/BaseMetasound.ini	
