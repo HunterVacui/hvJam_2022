@@ -147,9 +147,6 @@ Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
 Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp	
 Engine/Content/EngineMaterials/WorldGridMaterial.uasset	
 Engine/Content/EngineMaterials/WorldGridMaterial.uexp	
-Engine/Content/EngineMeshes/Cube.uasset	
-Engine/Content/EngineMeshes/Cube.ubulk	
-Engine/Content/EngineMeshes/Cube.uexp	
 Engine/Content/EngineMeshes/Sphere.uasset	
 Engine/Content/EngineMeshes/Sphere.ubulk	
 Engine/Content/EngineMeshes/Sphere.uexp	
@@ -1745,6 +1742,18 @@ hvJam_2022/Content/Gameplay/BaseInteractable.uasset
 hvJam_2022/Content/Gameplay/BaseInteractable.uexp	
 hvJam_2022/Content/Gameplay/BasicUtils.uasset	
 hvJam_2022/Content/Gameplay/BasicUtils.uexp	
+hvJam_2022/Content/Geometry/SimpleCone.uasset	
+hvJam_2022/Content/Geometry/SimpleCone.ubulk	
+hvJam_2022/Content/Geometry/SimpleCone.uexp	
+hvJam_2022/Content/Geometry/SimpleCube.uasset	
+hvJam_2022/Content/Geometry/SimpleCube.ubulk	
+hvJam_2022/Content/Geometry/SimpleCube.uexp	
+hvJam_2022/Content/Geometry/SimpleCylinder.uasset	
+hvJam_2022/Content/Geometry/SimpleCylinder.ubulk	
+hvJam_2022/Content/Geometry/SimpleCylinder.uexp	
+hvJam_2022/Content/Geometry/SimpleSphere.uasset	
+hvJam_2022/Content/Geometry/SimpleSphere.ubulk	
+hvJam_2022/Content/Geometry/SimpleSphere.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.umap	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset	
@@ -1755,8 +1764,6 @@ hvJam_2022/Content/Levels/Level1/Cloud/MatCloudParticle.uasset
 hvJam_2022/Content/Levels/Level1/Cloud/MatCloudParticle.uexp	
 hvJam_2022/Content/Levels/Level1/Cloud/NS_Cloud.uasset	
 hvJam_2022/Content/Levels/Level1/Cloud/NS_Cloud.uexp	
-hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uasset	
-hvJam_2022/Content/Levels/Level1/GameIntro/GameIntro.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.uexp	
 hvJam_2022/Content/Levels/Level1/Level1.umap	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uasset	
@@ -1917,8 +1924,6 @@ hvJam_2022/Content/System/BpPlayerCharacter.uasset
 hvJam_2022/Content/System/BpPlayerCharacter.uexp	
 hvJam_2022/Content/System/Checkpoint.uasset	
 hvJam_2022/Content/System/Checkpoint.uexp	
-hvJam_2022/Content/System/PlaySequenceHelper.uasset	
-hvJam_2022/Content/System/PlaySequenceHelper.uexp	
 hvJam_2022/Content/UI/HUD/HealthBar.uasset	
 hvJam_2022/Content/UI/HUD/HealthBar.uexp	
 hvJam_2022/Content/UI/Hints/HintEntry.uasset	
