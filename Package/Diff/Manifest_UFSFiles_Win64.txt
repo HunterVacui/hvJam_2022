@@ -1783,8 +1783,6 @@ hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uasset
 hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uexp	
 hvJam_2022/Content/Levels/MainMenu/MainMenuPopupHelper.uasset	
 hvJam_2022/Content/Levels/MainMenu/MainMenuPopupHelper.uexp	
-hvJam_2022/Content/Levels/MainMenu/MainMenuUI.uasset	
-hvJam_2022/Content/Levels/MainMenu/MainMenuUI.uexp	
 hvJam_2022/Content/Levels/System/OutsideLight.uexp	
 hvJam_2022/Content/Levels/System/OutsideLight.umap	
 hvJam_2022/Content/Levels/System/PersistentLevel.uexp	
@@ -1921,6 +1919,8 @@ hvJam_2022/Content/UI/Hints/HintWindow.uasset
 hvJam_2022/Content/UI/Hints/HintWindow.uexp	
 hvJam_2022/Content/UI/Menu/FullscreenButton.uasset	
 hvJam_2022/Content/UI/Menu/FullscreenButton.uexp	
+hvJam_2022/Content/UI/Menu/MainMenuUI.uasset	
+hvJam_2022/Content/UI/Menu/MainMenuUI.uexp	
 hvJam_2022/Content/UI/Menu/PauseMenuWidget.uasset	
 hvJam_2022/Content/UI/Menu/PauseMenuWidget.uexp	
 hvJam_2022/Content/UI/Menu/QuitGameButton.uasset	
