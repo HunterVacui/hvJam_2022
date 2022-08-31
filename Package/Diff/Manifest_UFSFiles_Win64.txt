@@ -1773,6 +1773,8 @@ hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.ua
 hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.uexp	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uasset	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uexp	
+hvJam_2022/Content/Levels/Level1/Underplatform/MatFallingVisualAid.uasset	
+hvJam_2022/Content/Levels/Level1/Underplatform/MatFallingVisualAid.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset	
