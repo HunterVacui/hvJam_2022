@@ -1777,6 +1777,10 @@ hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset
 hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
+hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uasset	
+hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uexp	
+hvJam_2022/Content/Levels/Level2/SpaceJunk/RandomJunk.uasset	
+hvJam_2022/Content/Levels/Level2/SpaceJunk/RandomJunk.uexp	
 hvJam_2022/Content/Levels/MainMenu/MainMenu.uexp	
 hvJam_2022/Content/Levels/MainMenu/MainMenu.umap	
 hvJam_2022/Content/Levels/MainMenu/MainMenuExposureOverride.uasset	
