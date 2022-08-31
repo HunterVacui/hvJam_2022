@@ -1688,12 +1688,6 @@ hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-01_22k_16bit_left.u
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-01_22k_16bit_right.uasset	
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-01_22k_16bit_right.ubulk	
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-01_22k_16bit_right.uexp	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_left.uasset	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_left.ubulk	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_left.uexp	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_right.uasset	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_right.ubulk	
-hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-02_22k_16bit_right.uexp	
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-03_22k_16bit_left.uasset	
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-03_22k_16bit_left.ubulk	
 hvJam_2022/Content/Audio/Footsteps/Wav/foley-step-metal-step-03_22k_16bit_left.uexp	
