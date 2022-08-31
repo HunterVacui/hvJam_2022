@@ -1903,6 +1903,8 @@ hvJam_2022/Content/System/BpMainGameMode.uasset
 hvJam_2022/Content/System/BpMainGameMode.uexp	
 hvJam_2022/Content/System/BpPlayerCharacter.uasset	
 hvJam_2022/Content/System/BpPlayerCharacter.uexp	
+hvJam_2022/Content/System/Checkpoint.uasset	
+hvJam_2022/Content/System/Checkpoint.uexp	
 hvJam_2022/Content/System/PlaySequenceHelper.uasset	
 hvJam_2022/Content/System/PlaySequenceHelper.uexp	
 hvJam_2022/Content/UI/HUD/HealthBar.uasset	
