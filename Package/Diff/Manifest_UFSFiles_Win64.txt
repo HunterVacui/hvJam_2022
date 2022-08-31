@@ -1749,9 +1749,9 @@ hvJam_2022/Content/Geometry/SimpleCube.uexp
 hvJam_2022/Content/Geometry/SimpleCylinder.uasset	
 hvJam_2022/Content/Geometry/SimpleCylinder.ubulk	
 hvJam_2022/Content/Geometry/SimpleCylinder.uexp	
-hvJam_2022/Content/Geometry/SimpleSphere.uasset	
-hvJam_2022/Content/Geometry/SimpleSphere.ubulk	
-hvJam_2022/Content/Geometry/SimpleSphere.uexp	
+hvJam_2022/Content/Geometry/Sphere_50cm_64ring_64seg.uasset	
+hvJam_2022/Content/Geometry/Sphere_50cm_64ring_64seg.ubulk	
+hvJam_2022/Content/Geometry/Sphere_50cm_64ring_64seg.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.uexp	
 hvJam_2022/Content/Levels/Debug/DebugMap.umap	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphere.uasset	
