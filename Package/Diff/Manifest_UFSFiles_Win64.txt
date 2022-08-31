@@ -1753,8 +1753,10 @@ hvJam_2022/Content/Levels/Level1/Level1.uexp
 hvJam_2022/Content/Levels/Level1/Level1.umap	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uasset	
 hvJam_2022/Content/Levels/Level1/Lvl1BallFinder.uexp	
-hvJam_2022/Content/Levels/Level1/Transition/Lv1To2TransitionSphere.uasset	
-hvJam_2022/Content/Levels/Level1/Transition/Lv1To2TransitionSphere.uexp	
+hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uasset	
+hvJam_2022/Content/Levels/Level1/Transition/Lvl1CongealSphere.uexp	
+hvJam_2022/Content/Levels/Level1/Transition/Lvl1To2Transition.uasset	
+hvJam_2022/Content/Levels/Level1/Transition/Lvl1To2Transition.uexp	
 hvJam_2022/Content/Levels/Level1/Underplatform/BelowPlatformSphereCheck.uasset	
 hvJam_2022/Content/Levels/Level1/Underplatform/BelowPlatformSphereCheck.uexp	
 hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/LevitationCastBeam.uasset	
