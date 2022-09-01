@@ -1715,6 +1715,8 @@ hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uasset
 hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uexp	
 hvJam_2022/Content/Audio/Music/ActorBasedBGM.uasset	
 hvJam_2022/Content/Audio/Music/ActorBasedBGM.uexp	
+hvJam_2022/Content/Audio/Music/BgmManager.uasset	
+hvJam_2022/Content/Audio/Music/BgmManager.uexp	
 hvJam_2022/Content/Audio/Music/Egotrip/kf019601-egotrip_32k_16bit.uasset	
 hvJam_2022/Content/Audio/Music/Egotrip/kf019601-egotrip_32k_16bit.ubulk	
 hvJam_2022/Content/Audio/Music/Egotrip/kf019601-egotrip_32k_16bit.uexp	
