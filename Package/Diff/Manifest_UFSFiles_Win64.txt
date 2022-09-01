@@ -1800,6 +1800,8 @@ hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uasset
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uexp	
+hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uasset	
+hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
 hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uasset	
