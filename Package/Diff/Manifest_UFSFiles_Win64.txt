@@ -1715,6 +1715,11 @@ hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uasset
 hvJam_2022/Content/Audio/Metasounds/Random2WavArrayPlayer.uexp	
 hvJam_2022/Content/Audio/Music/ActorBasedBGM.uasset	
 hvJam_2022/Content/Audio/Music/ActorBasedBGM.uexp	
+hvJam_2022/Content/Audio/Music/FunkyFrench/FunkyFrench_Loop.uasset	
+hvJam_2022/Content/Audio/Music/FunkyFrench/FunkyFrench_Loop.uexp	
+hvJam_2022/Content/Audio/Music/FunkyFrench/kf011013-funky-french_32k_8bit.uasset	
+hvJam_2022/Content/Audio/Music/FunkyFrench/kf011013-funky-french_32k_8bit.ubulk	
+hvJam_2022/Content/Audio/Music/FunkyFrench/kf011013-funky-french_32k_8bit.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Excited.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Excited.uexp	
 hvJam_2022/Content/Audio/Music/Outgame/Metasound_Outgame_Loop.uasset	
