@@ -1794,10 +1794,12 @@ hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.ua
 hvJam_2022/Content/Levels/Level1/Underplatform/LevitationVfx/MfLevitationRing.uexp	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uasset	
 hvJam_2022/Content/Levels/Level1/Underplatform/Lv1InvisCradle.uexp	
-hvJam_2022/Content/Levels/Level2/CaveWall.uasset	
-hvJam_2022/Content/Levels/Level2/CaveWall.uexp	
-hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uasset	
-hvJam_2022/Content/Levels/Level2/CaveWallMatParams.uexp	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWall.uasset	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWall.uexp	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uasset	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uexp	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uasset	
+hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
 hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uasset	
@@ -1856,6 +1858,8 @@ hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uasset
 hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uexp	
+hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_ShallowScratches.uasset	
+hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_ShallowScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingScratches.uasset	
