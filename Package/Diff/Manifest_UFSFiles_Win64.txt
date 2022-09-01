@@ -1811,6 +1811,8 @@ hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uasset
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall/MatCaveWallSprite.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall/MatCaveWallSprite.uexp	
+hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereMovementBounds.uasset	
+hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereMovementBounds.uexp	
 hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereSpawnLocReference.uasset	
 hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereSpawnLocReference.uexp	
 hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uasset	
