@@ -1817,6 +1817,8 @@ hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereMovementBounds.uasset
 hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereMovementBounds.uexp	
 hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereSpawnLocReference.uasset	
 hvJam_2022/Content/Levels/Level2/EvilSphere/EvilSphereSpawnLocReference.uexp	
+hvJam_2022/Content/Levels/Level2/EvilSphere/PlayerTargetedProjectile.uasset	
+hvJam_2022/Content/Levels/Level2/EvilSphere/PlayerTargetedProjectile.uexp	
 hvJam_2022/Content/Levels/Level2/EvilSphere/PortholePlug.uasset	
 hvJam_2022/Content/Levels/Level2/EvilSphere/PortholePlug.uexp	
 hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uasset	
@@ -1868,6 +1870,8 @@ hvJam_2022/Content/Materials/Math/NormalFromHeightSamples_VarIntensity.uasset
 hvJam_2022/Content/Materials/Math/NormalFromHeightSamples_VarIntensity.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Bronze_WorldVertical.uexp	
+hvJam_2022/Content/Materials/Physical/Metal/CaveEmissive.uasset	
+hvJam_2022/Content/Materials/Physical/Metal/CaveEmissive.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_DeepScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_ShallowScratches.uasset	
