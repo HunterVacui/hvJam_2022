@@ -1740,8 +1740,6 @@ hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_4.uexp
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.ubulk	
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.uexp	
-hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uasset	
-hvJam_2022/Content/FX/ActorSelf/BreakSphereInteraction.uexp	
 hvJam_2022/Content/FX/SimpleSpriteMaterial.uasset	
 hvJam_2022/Content/FX/SimpleSpriteMaterial.uexp	
 hvJam_2022/Content/Gameplay/BaseInteractable.uasset	
@@ -1768,6 +1766,8 @@ hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereBase.uasset
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereBase.uexp	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uasset	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereDeath.uexp	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereFX.uasset	
+hvJam_2022/Content/Levels/Level1/Breaksphere/BreakSphereFX.uexp	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreaksphereFollowActorComponent.uasset	
 hvJam_2022/Content/Levels/Level1/Breaksphere/BreaksphereFollowActorComponent.uexp	
 hvJam_2022/Content/Levels/Level1/Cloud/MatCloudParticle.uasset	
@@ -1802,10 +1802,16 @@ hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uasset
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatAnimation.uexp	
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uasset	
 hvJam_2022/Content/Levels/Level2/CaveWall/CaveWallMatParams.uexp	
+hvJam_2022/Content/Levels/Level2/CaveWall/MatCaveWallSprite.uasset	
+hvJam_2022/Content/Levels/Level2/CaveWall/MatCaveWallSprite.uexp	
 hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uasset	
 hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
+hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFX.uasset	
+hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFX.uexp	
+hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFXold.uasset	
+hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFXold.uexp	
 hvJam_2022/Content/Levels/Level2/Porthole/PortholePlug.uasset	
 hvJam_2022/Content/Levels/Level2/Porthole/PortholePlug.uexp	
 hvJam_2022/Content/Levels/Level2/Porthole/level2_porthole.uasset	
