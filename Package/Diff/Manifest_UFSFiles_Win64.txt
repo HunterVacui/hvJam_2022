@@ -1916,6 +1916,10 @@ hvJam_2022/Content/System/BpPlayerCharacter.uasset
 hvJam_2022/Content/System/BpPlayerCharacter.uexp	
 hvJam_2022/Content/System/Checkpoint.uasset	
 hvJam_2022/Content/System/Checkpoint.uexp	
+hvJam_2022/Content/UI/Credits/CreditsRoller.uasset	
+hvJam_2022/Content/UI/Credits/CreditsRoller.uexp	
+hvJam_2022/Content/UI/Credits/CreditsWidget.uasset	
+hvJam_2022/Content/UI/Credits/CreditsWidget.uexp	
 hvJam_2022/Content/UI/HUD/HealthBar.uasset	
 hvJam_2022/Content/UI/HUD/HealthBar.uexp	
 hvJam_2022/Content/UI/Hints/HintEntry.uasset	
