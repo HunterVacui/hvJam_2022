@@ -1877,6 +1877,8 @@ hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_ShallowScratches.uasset
 hvJam_2022/Content/Materials/Physical/Metal/MF_Metal_ShallowScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_Clean.uexp	
+hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingCaveScratches.uasset	
+hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingCaveScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingScratches.uasset	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepGlowingScratches.uexp	
 hvJam_2022/Content/Materials/Physical/Metal/Metal_DeepScratches.uasset	
