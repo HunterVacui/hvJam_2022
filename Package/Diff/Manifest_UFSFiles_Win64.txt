@@ -1938,11 +1938,15 @@ hvJam_2022/Content/UI/Menu/FullscreenButton.uasset
 hvJam_2022/Content/UI/Menu/FullscreenButton.uexp	
 hvJam_2022/Content/UI/Menu/MainMenuUI.uasset	
 hvJam_2022/Content/UI/Menu/MainMenuUI.uexp	
+hvJam_2022/Content/UI/Menu/MegajamTagline.uasset	
+hvJam_2022/Content/UI/Menu/MegajamTagline.uexp	
 hvJam_2022/Content/UI/Menu/PauseMenuWidget.uasset	
 hvJam_2022/Content/UI/Menu/PauseMenuWidget.uexp	
 hvJam_2022/Content/UI/Menu/QuitGameButton.uasset	
 hvJam_2022/Content/UI/Menu/QuitGameButton.uexp	
 hvJam_2022/Content/UI/Menu/ShowHintsButton.uasset	
 hvJam_2022/Content/UI/Menu/ShowHintsButton.uexp	
+hvJam_2022/Content/UI/Menu/TitleText.uasset	
+hvJam_2022/Content/UI/Menu/TitleText.uexp	
 hvJam_2022/Plugins/hvJam_2022.upluginmanifest	
 hvJam_2022/hvJam_2022.uproject	
