@@ -1812,6 +1812,8 @@ hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFX.uasset
 hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFX.uexp	
 hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFXold.uasset	
 hvJam_2022/Content/Levels/Level2/Porthole/AbsorbEnergyFXold.uexp	
+hvJam_2022/Content/Levels/Level2/Porthole/PortholeOpenSequence.uasset	
+hvJam_2022/Content/Levels/Level2/Porthole/PortholeOpenSequence.uexp	
 hvJam_2022/Content/Levels/Level2/Porthole/PortholePlug.uasset	
 hvJam_2022/Content/Levels/Level2/Porthole/PortholePlug.uexp	
 hvJam_2022/Content/Levels/Level2/Porthole/level2_porthole.uasset	
