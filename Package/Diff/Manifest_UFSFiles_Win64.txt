@@ -1745,6 +1745,9 @@ hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_4.uexp
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.uasset	
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.ubulk	
 hvJam_2022/Content/Audio/Music/Outgame/Wav/BGM_outgame_5.uexp	
+hvJam_2022/Content/Audio/Music/SphereOfControl/kf015807-sphere-of-control_32k_16bit_stereo.uasset	
+hvJam_2022/Content/Audio/Music/SphereOfControl/kf015807-sphere-of-control_32k_16bit_stereo.ubulk	
+hvJam_2022/Content/Audio/Music/SphereOfControl/kf015807-sphere-of-control_32k_16bit_stereo.uexp	
 hvJam_2022/Content/FX/SimpleSpriteMaterial.uasset	
 hvJam_2022/Content/FX/SimpleSpriteMaterial.uexp	
 hvJam_2022/Content/Gameplay/BaseInteractable.uasset	
