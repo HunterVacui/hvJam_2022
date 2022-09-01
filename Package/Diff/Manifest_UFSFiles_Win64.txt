@@ -1804,6 +1804,9 @@ hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uasset
 hvJam_2022/Content/Levels/Level2/FadeoutExponentialHeightFogTrigger.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.uexp	
 hvJam_2022/Content/Levels/Level2/Level2.umap	
+hvJam_2022/Content/Levels/Level2/Porthole/level2_porthole.uasset	
+hvJam_2022/Content/Levels/Level2/Porthole/level2_porthole.ubulk	
+hvJam_2022/Content/Levels/Level2/Porthole/level2_porthole.uexp	
 hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uasset	
 hvJam_2022/Content/Levels/Level2/SpaceJunk/JunkUtils.uexp	
 hvJam_2022/Content/Levels/Level2/SpaceJunk/RandomJunk.uasset	
