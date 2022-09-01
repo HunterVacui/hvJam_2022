@@ -1853,6 +1853,8 @@ hvJam_2022/Content/Materials/Geometry/MfWorldPosToGridUVs.uasset
 hvJam_2022/Content/Materials/Geometry/MfWorldPosToGridUVs.uexp	
 hvJam_2022/Content/Materials/Math/DistanceBlend.uasset	
 hvJam_2022/Content/Materials/Math/DistanceBlend.uexp	
+hvJam_2022/Content/Materials/Math/MfDistanceScaleFromPoint.uasset	
+hvJam_2022/Content/Materials/Math/MfDistanceScaleFromPoint.uexp	
 hvJam_2022/Content/Materials/Math/MfScrollingWsUVs.uasset	
 hvJam_2022/Content/Materials/Math/MfScrollingWsUVs.uexp	
 hvJam_2022/Content/Materials/Math/MfSetEmissive.uasset	
