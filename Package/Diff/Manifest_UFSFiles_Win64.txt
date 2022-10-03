@@ -1961,6 +1961,8 @@ hvJam_2022/Content/UI/Hints/HintWindow.uasset
 hvJam_2022/Content/UI/Hints/HintWindow.uexp	
 hvJam_2022/Content/UI/Menu/FullscreenButton.uasset	
 hvJam_2022/Content/UI/Menu/FullscreenButton.uexp	
+hvJam_2022/Content/UI/Menu/HDR_Button.uasset	
+hvJam_2022/Content/UI/Menu/HDR_Button.uexp	
 hvJam_2022/Content/UI/Menu/MainMenuUI.uasset	
 hvJam_2022/Content/UI/Menu/MainMenuUI.uexp	
 hvJam_2022/Content/UI/Menu/MegajamTagline.uasset	
